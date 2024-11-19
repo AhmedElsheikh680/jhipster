@@ -1,0 +1,26 @@
+{
+  "myApp": {
+    "country": {
+      "home": {
+        "title": "Countries",
+        "refreshListLabel": "تحديث القائمة",
+        "createLabel": "إنشاء Country جديد",
+        "createOrEditLabel": "إنشاء أو تعديل Country",
+        "notFound": "لم يتم العثور على Countries"
+      },
+      "created": "Country جديد تم إنشاؤه بالمعرف {{ param }}",
+      "updated": "Country تم تحديثه بالمعرف {{ param }}",
+      "deleted": "Country تم حذفه بالمعرف {{ param }}",
+      "delete": {
+        "question": "هل أنت متأكد أنك تريد حذف Country {{ id }}؟"
+      },
+      "detail": {
+        "title": "Country"
+      },
+      "id": "ID",
+      "countryName": "Country Name",
+      "region": "Region",
+      "location": "Location"
+    }
+  }
+}

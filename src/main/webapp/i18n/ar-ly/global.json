@@ -8,7 +8,14 @@
       "entities": {
         "main": "الكيانات",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)",
-        "adminAuthority": "Authority"
+        "country": "Country",
+        "department": "Department",
+        "employee": "Employee",
+        "job": "Job",
+        "jobHistory": "Job History",
+        "location": "Location",
+        "region": "Region",
+        "task": "Task"
       },
       "account": {
         "main": "الحساب",

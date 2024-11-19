@@ -83,6 +83,18 @@ public class CacheConfiguration {
             createCache(cm, com.globals.domain.User.class.getName(), jcacheConfiguration);
             createCache(cm, com.globals.domain.Authority.class.getName(), jcacheConfiguration);
             createCache(cm, com.globals.domain.User.class.getName() + ".authorities", jcacheConfiguration);
+            createCache(cm, com.globals.domain.Country.class.getName(), jcacheConfiguration);
+            createCache(cm, com.globals.domain.Department.class.getName(), jcacheConfiguration);
+            createCache(cm, com.globals.domain.Department.class.getName() + ".employees", jcacheConfiguration);
+            createCache(cm, com.globals.domain.Employee.class.getName(), jcacheConfiguration);
+            createCache(cm, com.globals.domain.Employee.class.getName() + ".jobs", jcacheConfiguration);
+            createCache(cm, com.globals.domain.Job.class.getName(), jcacheConfiguration);
+            createCache(cm, com.globals.domain.Job.class.getName() + ".tasks", jcacheConfiguration);
+            createCache(cm, com.globals.domain.JobHistory.class.getName(), jcacheConfiguration);
+            createCache(cm, com.globals.domain.Location.class.getName(), jcacheConfiguration);
+            createCache(cm, com.globals.domain.Region.class.getName(), jcacheConfiguration);
+            createCache(cm, com.globals.domain.Task.class.getName(), jcacheConfiguration);
+            createCache(cm, com.globals.domain.Task.class.getName() + ".jobs", jcacheConfiguration);
             // jhipster-needle-redis-add-entry
         };
     }

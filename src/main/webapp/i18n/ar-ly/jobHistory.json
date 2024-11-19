@@ -1,0 +1,29 @@
+{
+  "myApp": {
+    "jobHistory": {
+      "home": {
+        "title": "Job Histories",
+        "refreshListLabel": "تحديث القائمة",
+        "createLabel": "إنشاء Job History جديد",
+        "createOrEditLabel": "إنشاء أو تعديل Job History",
+        "notFound": "لم يتم العثور على Job Histories"
+      },
+      "created": "Job History جديد تم إنشاؤه بالمعرف {{ param }}",
+      "updated": "Job History تم تحديثه بالمعرف {{ param }}",
+      "deleted": "Job History تم حذفه بالمعرف {{ param }}",
+      "delete": {
+        "question": "هل أنت متأكد أنك تريد حذف Job History {{ id }}؟"
+      },
+      "detail": {
+        "title": "Job History"
+      },
+      "id": "ID",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "language": "Language",
+      "job": "Job",
+      "department": "Department",
+      "employee": "Employee"
+    }
+  }
+}

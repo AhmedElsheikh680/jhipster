@@ -1,0 +1,25 @@
+{
+  "myApp": {
+    "region": {
+      "home": {
+        "title": "Regions",
+        "refreshListLabel": "تحديث القائمة",
+        "createLabel": "إنشاء Region جديد",
+        "createOrEditLabel": "إنشاء أو تعديل Region",
+        "notFound": "لم يتم العثور على Regions"
+      },
+      "created": "Region جديد تم إنشاؤه بالمعرف {{ param }}",
+      "updated": "Region تم تحديثه بالمعرف {{ param }}",
+      "deleted": "Region تم حذفه بالمعرف {{ param }}",
+      "delete": {
+        "question": "هل أنت متأكد أنك تريد حذف Region {{ id }}؟"
+      },
+      "detail": {
+        "title": "Region"
+      },
+      "id": "ID",
+      "regionName": "Region Name",
+      "country": "Country"
+    }
+  }
+}

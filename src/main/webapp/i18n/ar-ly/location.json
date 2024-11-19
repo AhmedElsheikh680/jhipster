@@ -1,0 +1,29 @@
+{
+  "myApp": {
+    "location": {
+      "home": {
+        "title": "Locations",
+        "refreshListLabel": "تحديث القائمة",
+        "createLabel": "إنشاء Location جديد",
+        "createOrEditLabel": "إنشاء أو تعديل Location",
+        "notFound": "لم يتم العثور على Locations"
+      },
+      "created": "Location جديد تم إنشاؤه بالمعرف {{ param }}",
+      "updated": "Location تم تحديثه بالمعرف {{ param }}",
+      "deleted": "Location تم حذفه بالمعرف {{ param }}",
+      "delete": {
+        "question": "هل أنت متأكد أنك تريد حذف Location {{ id }}؟"
+      },
+      "detail": {
+        "title": "Location"
+      },
+      "id": "ID",
+      "streetAddress": "Street Address",
+      "postalCode": "Postal Code",
+      "city": "City",
+      "stateProvince": "State Province",
+      "country": "Country",
+      "department": "Department"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "myApp": {
+    "job": {
+      "home": {
+        "title": "Jobs",
+        "refreshListLabel": "تحديث القائمة",
+        "createLabel": "إنشاء Job جديد",
+        "createOrEditLabel": "إنشاء أو تعديل Job",
+        "notFound": "لم يتم العثور على Jobs"
+      },
+      "created": "Job جديد تم إنشاؤه بالمعرف {{ param }}",
+      "updated": "Job تم تحديثه بالمعرف {{ param }}",
+      "deleted": "Job تم حذفه بالمعرف {{ param }}",
+      "delete": {
+        "question": "هل أنت متأكد أنك تريد حذف Job {{ id }}؟"
+      },
+      "detail": {
+        "title": "Job"
+      },
+      "id": "ID",
+      "jobTitle": "Job Title",
+      "minSalary": "Min Salary",
+      "maxSalary": "Max Salary",
+      "task": "Task",
+      "employee": "Employee",
+      "jobHistory": "Job History"
+    }
+  }
+}
